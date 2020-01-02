@@ -22,3 +22,5 @@ I noticed that when there are no elements in common between the two snapshots, t
 ---
 
 I'm not sure if there's anything that _I'm_ doing wrong, if it's a known bug or if it's intended behavior. I'd be curious to hear if this is something anyone has run into and if there's a workaround.
+
+Feel free to email me at kevin@kevinclark.ca. Thanks! ✌️
